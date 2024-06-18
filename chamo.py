@@ -1,1 +1,2 @@
-print("Se entro un perro en la Universidad")
+def perro():
+    print("Se entro un perro en la Universidad")
